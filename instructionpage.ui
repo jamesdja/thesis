@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>instructionpage</class>
+ <widget class="QMainWindow" name="instructionpage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>60</y>
+      <width>1871</width>
+      <height>881</height>
+     </rect>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-size:16pt; background-color:#ffffff;&quot;&gt;Beim Start Drücken wird die Zeit gestempelt.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque, purus sed sodales vestibulum, ipsum turpis mattis ipsum, vel rhoncus erat sem a libero. Sed pharetra sapien libero, eget convallis est mattis in. Suspendisse non consequat odio. Morbi vehicula condimentum metus. Suspendisse malesuada diam in egestas maximus. Sed et nisi maximus, rhoncus massa vel, dictum ligula. Nullam est diam, tempus non sollicitudin vel, pellentesque in massa. Maecenas tincidunt auctor volutpat. Fusce ornare risus id facilisis pulvinar.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;Donec sed sapien ac dolor scelerisque feugiat quis vitae felis. Donec eget ipsum est. Pellentesque dui mauris, cursus porttitor molestie vel, efficitur a lectus. Mauris faucibus, magna eu elementum convallis, ligula nisi sodales turpis, eget aliquam dui augue ut magna. Ut ornare sem elit, ut lacinia libero rhoncus id. Aliquam nec sem tempus, lobortis augue pharetra, imperdiet mauris. Nulla sollicitudin fermentum lacus, non ullamcorper erat porta sed. Curabitur gravida est nec lectus bibendum rhoncus. Integer at iaculis velit, id dictum lectus. Proin id commodo leo, sed tincidunt nibh. Nam gravida sem nec velit scelerisque varius. Phasellus viverra dolor ac enim tincidunt, id auctor diam eleifend. Quisque tincidunt vel mi sit amet bibendum. Nulla vitae augue pretium sem pulvinar molestie. Aenean lobortis id diam a eleifend. In at mollis felis, in eleifend turpis.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;Cras egestas metus sed sem pretium consectetur id ut elit. Nam dictum consequat imperdiet. Aenean fringilla mi vitae suscipit finibus. Suspendisse ut justo a purus tincidunt auctor. Vivamus sit amet lorem eu ligula accumsan aliquam non in urna. Vivamus quis ante varius, venenatis risus sit amet, tempor eros. Nunc vestibulum ex vel sagittis tristique. Cras ut felis ultrices, gravida ex quis, hendrerit leo. Ut placerat erat vitae consectetur iaculis.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;Donec blandit metus at ipsum tincidunt ultricies. Nunc felis nulla, consectetur nec augue a, auctor eleifend risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque suscipit lectus euismod condimentum mollis. Morbi sit amet cursus magna, sed hendrerit nibh. Cras ultrices augue rhoncus mi tristique pulvinar. Quisque metus risus, eleifend sit amet enim at, pretium ultricies massa. Sed at libero convallis, placerat sapien in, vehicula orci. Etiam aliquam convallis dui accumsan pretium. Donec odio ligula, mattis at ultrices interdum, laoreet semper nibh.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:15px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#ffffff;&quot;&gt;&lt;span style=&quot; font-family:'Open Sans','Arial','sans-serif'; font-size:16pt; color:#000000; background-color:#ffffff;&quot;&gt;Nam elementum justo eget tellus cursus faucibus. Nulla porta turpis nibh, quis commodo mi scelerisque sed. Sed eleifend justo vitae orci tincidunt, et pulvinar dolor viverra. Mauris luctus, ante in fringilla ultricies, dui ipsum elementum augue, a vestibulum orci sapien vestibulum ex. Aenean id consectetur magna. Fusce et accumsan neque. In hendrerit urna ut turpis ullamcorper finibus eu eget arcu. Morbi dignissim vestibulum erat, id malesuada enim vulputate eu. In quis nisi vitae dui aliquam elementum. Sed aliquet mauris ac porta lobortis. Pellentesque non ante tincidunt, faucibus urna vel, feugiat neque. Nullam id turpis neque. Sed diam turpis, commodo nec rutrum at, lobortis et nisl. In accumsan sodales magna nec pellentesque.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="back">
+    <property name="geometry">
+     <rect>
+      <x>1450</x>
+      <y>992</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Back</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="start">
+    <property name="geometry">
+     <rect>
+      <x>1690</x>
+      <y>990</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="uhrzeit">
+    <property name="geometry">
+     <rect>
+      <x>1650</x>
+      <y>10</y>
+      <width>251</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1920</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
